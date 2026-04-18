@@ -8,7 +8,7 @@
 <p align="center">Computer Science Undergraduate </p>
 
 <h3>Skills</h3>
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
