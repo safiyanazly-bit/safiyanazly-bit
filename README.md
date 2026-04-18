@@ -4,8 +4,8 @@
   <img src="banner.png" width="100%" alt="banner"/>
 </p>
 
-<h2 align="center">Hey, I'm YOUR_NAME</h2>
-<p align="center">Full Stack Developer ⚡ | API Builder 🧰 | Geek by choice 🧙‍♂️</p>
+<h2 align="center">Hey, I'm Safiya Nazly</h2>
+<p align="center">Computer Science Undergraduate </p>
 
 <!--
 **safiyanazly-bit/safiyanazly-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
